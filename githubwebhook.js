@@ -13,7 +13,7 @@ const options = {
     method: 'POST',
     headers: headers,
     form: {
-        'token': 'xoxp-2773101897-731794854357-735356593506-a1811d4d0dc2e50888a79f442a6968ea',
+        'token': 'XXXXXXX-XXXXXX-XXXXXXX',
         'channel': 'interns-cph',
         "as_user": "true",
         "text": null
